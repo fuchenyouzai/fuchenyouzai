@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+Fate brings us together. It is the decision of the sun.
+         拂尘悠哉 youzai  悠哉
+Telegram @fuchenyouzaibot 
 <!--
 **fuchenyouzai/fuchenyouzai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
