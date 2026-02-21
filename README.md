@@ -1,5 +1,6 @@
 # 悠哉 悠哉拂尘 拂尘悠哉 youzai  fuchenyouzai
-# Telegram @fuchenyouzaibot 
+# 我的 电报 Telegram
+# @fuchenyouzaibot 
 # 我的 youtube 
 # https://youtube.com/@拂尘悠哉
 
